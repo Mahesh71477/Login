@@ -1,0 +1,154 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+body{
+  display: fiex;
+  background-color: #222;
+  color: whitesmoke;
+  width: 500px;
+  height: 500px;
+  
+  
+}
+h2{
+  margin: 25px;
+  left: 50px;
+  position: relative;
+  
+  
+  
+}
+.b{
+  width: 290px;
+  height: 380px;
+  background-color: black;
+  border: 3px solid red;
+  border-radius: 40px;
+  
+  
+  
+}
+.b{
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  
+  
+  
+  
+  
+}
+   .b{
+     position: absolute;
+     
+     
+   }
+   .a{
+    position: absoluteve;
+   padding: 20px;
+   height: 10px;
+   width: 200px;
+   top: -10px;
+  
+  
+  
+  
+  
+   }
+  .c{
+   position: relative;
+    
+   
+  
+  
+   }
+.z{
+  position: relative;
+  width: 250px;
+  color: darkcyan;
+  outline: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  
+  
+  
+}
+.z:active{
+  background-color: burlywood;
+  
+  
+}
+.y{
+  text-decoration: none;
+  position: relative;
+  width: 100px;
+  height: 10px;
+  color: blue;
+}
+.y:hover{
+  left: 120px;
+  color: red;
+  
+}
+button{
+  position: relative;
+  width: 250px;
+  height: 40px;
+  border: 2px solid coral;
+  border-radius: 10px;
+  background-color: darkturquoise;
+  color: blue;
+  font-size: 30px;
+}
+button:active{
+  background-color: darkred;
+  color: yellow;
+  height: 43px;
+  weight: 260px;
+  left: 5px;
+  
+}
+.x{
+  position: relative;
+  top: 210px;
+  left: 15px;
+  font-size: 18px;
+}
+.aa{
+  position: relative;
+  width: 190px;
+  height: 100px;
+  background-color: #222;
+  top: 120px;
+  animation-duration: 20s;
+  left: 10px;
+  font-size: 20px;
+  
+}
+.aa:hover{
+  animation-name: bb;
+}
+
+
+@keyframes bb{
+  from{
+    height: 100px;
+    width: 190px;
+    
+  }
+  to{
+    top: 250px;
+    height: 0px;
+    width: 0px;
+  }
+  
+  
+}
+.cc{
+  position: relative;
+  top: 180px;
+  left: 20px;
+}
